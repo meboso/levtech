@@ -25,6 +25,7 @@
             </div>
         </div>
         <div class="footer">
+            <a href="">{{ $post->category->name }}</a>
             <a href="/">戻る</a>
         </div>
         <script>
